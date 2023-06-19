@@ -1,6 +1,7 @@
 ### Hi there, welcome to my github👋
 My  ![Visitor Count](https://profile-counter.glitch.me/Scholar618/count.svg)  Vistor.
-
+- 🔭 I’m currently working on HUBU 
+- 🌱 I’m currently learning C/C++, Linux
 
 
 <!--

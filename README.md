@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi! My  ![Visitor Count](https://profile-counter.glitch.me/yanyanran/count.svg)  Vistor.
+Hi! My  ![Visitor Count](https://profile-counter.glitch.me/Scholar618/count.svg)  Vistor.
 
 <!--
 **Scholar618/Scholar618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

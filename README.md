@@ -1,7 +1,9 @@
 ### Hi there 👋
 Hi! My  ![Visitor Count](https://profile-counter.glitch.me/Scholar618/count.svg)  Vistor.
-<img width="60%" align="down" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scholar618&theme=dark&layout=compact" />
-<img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scholar618&theme=dark&layout=compact" />
+
+<img width="60%" align="right" src="https://github-readme-stats.vercel.app/api?username=Scholar618&show_icons=true&hide_border=true" />
+<img width="60%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scholar618&theme=dark&layout=compact" />
+
 
 <!--
 **Scholar618/Scholar618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

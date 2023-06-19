@@ -6,6 +6,7 @@
 </p>
 - 🔭 I’m currently working on HUBU 
 - 🌱 I’m currently learning C/C++, Linux
+- 💬 My blog is https://blog.csdn.net/qq_63228903
 
 
 <!--

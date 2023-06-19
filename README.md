@@ -5,10 +5,15 @@
     <img align="center" alt="visitors" src="https://profile-counter.glitch.me/Scholar618/count.svg" />
 </p>
 
+<p align="center">
 - 🔭 I’m currently working on HUBU 
+</p>
+<p align="center">
 - 🌱 I’m currently learning C/C++, Linux
+</p>
+<p align="center">
 - 💬 My blog is https://blog.csdn.net/qq_63228903
-
+</p>
 
 <!--
 **Scholar618/Scholar618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

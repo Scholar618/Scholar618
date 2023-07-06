@@ -14,7 +14,8 @@
 <p align="center">
 - 💬 My blog is https://blog.csdn.net/qq_63228903
 </p>
-
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scholar618"> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Scholar618"> </div>
 <!--
 **Scholar618/Scholar618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Scholar618"> </div>

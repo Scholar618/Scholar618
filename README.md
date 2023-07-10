@@ -14,14 +14,17 @@
 <p align="center">
 - 💬 My blog is https://blog.csdn.net/qq_63228903
 </p>
+
+<div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scholar618" />
+</div>
+
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Scholar618" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scholar618&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Scholar618" /><span>  </span><img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Scholar618" />
 <span>  </span>
 </div>
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Scholar618" />
-</div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scholar618&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </div>

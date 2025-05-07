@@ -9,19 +9,16 @@
 - 🔭 I’m currently working on HUBU 
 </p>
 <p align="center">
-- 🌱 I’m currently learning C/C++, Linux
+- 🌱 I’m currently learning C#, C/C++, Linux
 </p>
 <p align="center">
 - 💬 My blog is https://blog.csdn.net/qq_63228903
 </p>
 
-<div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scholar618" />
-</div>
 
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Scholar618" /><span>  </span><img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Scholar618" />
+<img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scholar618" /><span>  </span><img height="250px" src="https://github-readme-stats.vercel.app/api?username=Scholar618" />
 <span>  </span>
 </div>
 

@@ -14,11 +14,12 @@
 <p align="center">
 - 💬 My blog is https://blog.csdn.net/qq_63228903
 </p>
-
-
+<!-- main use language 
+<img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scholar618" /><span>  </span>
+-->
 <div align="center">
 <span>  </span>
-<img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scholar618" /><span>  </span><img height="250px" src="https://github-readme-stats.vercel.app/api?username=Scholar618" />
+<img height="250px" src="https://github-readme-stats.vercel.app/api?username=Scholar618" />
 <span>  </span>
 </div>
 
